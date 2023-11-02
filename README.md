@@ -1,4 +1,7 @@
 # Python-reaction-time-script-Humanbenchmark-
+Python script made to set the World Record in [Humanbechmark Reaction Time](https://humanbenchmark.com/tests/reactiontime)
+
+
 
 Proof:
 
