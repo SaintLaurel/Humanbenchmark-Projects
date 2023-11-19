@@ -1,8 +1,9 @@
 # Aim Trainer
-Python script made to set the World Record in [Humanbechmark Aim Trainer](https://humanbenchmark.com/tests/aim)
+Python script made to set the World Record in [Humanbechmark Aim Trainer](https://humanbenchmark.com/tests/aim) with the average score of 97ms.
 
 
 
 Proof:
 
-![image](https://github.com/SaintLaurel/Python-reaction-time-script-Humanbenchmark-/assets/149721433/3aedae76-d6d2-490c-a341-2fce4b273153)
+![image](![image](https://github.com/SaintLaurel/Humanbenchmark-Projects/assets/149721433/f036c808-376d-470d-b2c9-a6e6958e9450)
+)
